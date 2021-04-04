@@ -1,0 +1,16 @@
+{
+    "name": "necessarylion/thai-id-checker",
+    "description": "This package will help to check valid thai citizen card ID",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AJ",
+            "email": "necessarylion@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Necessarylion\\": "src/"}
+    },
+    "require": {}
+}
